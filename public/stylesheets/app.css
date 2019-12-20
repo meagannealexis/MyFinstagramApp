@@ -1,0 +1,34 @@
+ header {
+  background-color: #244751;
+  color: #E8FDFF
+}
+header{
+    border: radius 50;
+}
+
+
+body{
+    background-color:whitesmoke;
+   font-family:'Acme',sans-serif;
+
+}
+
+main{
+    background-color:rgb(255, 255, 255);
+    padding:16px;
+}
+a.photo{
+    transition:padding 0.5s;
+}
+
+a.photo:hover{
+   padding: 10px;
+}
+
+.finstagram-post {
+    margin-bottom:48px;
+}
+
+.finstagram-post  .user-info img {
+    border-radius :50px;
+}
